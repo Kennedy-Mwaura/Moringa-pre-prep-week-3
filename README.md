@@ -1,4 +1,3 @@
 # Anitas Kitchen
-week 2 
+week 3 learning. Mostly JS 
 ## description
-sdnks
